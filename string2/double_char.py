@@ -3,3 +3,5 @@ def double_char(str):
 
 #alternate solution
 #can also use for loop
+
+print(double_char("hello"))
